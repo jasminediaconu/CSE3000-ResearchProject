@@ -1,57 +1,57 @@
-query,label3
-What kind of band is one direction?,Category/Type
-what kind of music was debussy,Category/Type
-a shrug is what type of communication,Category/Type
-what bonds are polymers,Category/Type
-what type of math questions are on the act,Category/Type
-what kind of store is walmart,Category/Type
-what type of eruption was the mayon volcano,Category/Type
-what mood feels guilt shame,Category/Type
-what kind of cancer does hpv cause,Category/Type
-types of mum flowers,Category/Type
-. what types of information would be documented into the equipment inventory,Category/Type
-what type of leaf is in tea,Category/Type
-what type of lava did mount pelee have,Category/Type
-what is the species of a chimpanzee,Category/Type
-what type of disorder is arthritis?,Category/Type
-what are normal percussion sounds over the stomach,Category/Type
-4. what kind of government does the united states have,Category/Type
-what coverage is needed for triple net lease,Category/Type
-which deserts do cactus grow in,Category/Type
-fainting is a manifestation of which heart condition,Category/Type
-what type of engine uses tiller for steering,Category/Type
-what kind of worms for trout fishing,Category/Type
-what type of animals are in montana,Category/Type
-"when it is summer in australia, the season in the united states is",Category/Type
-what work experience is needed to become a cpa,Category/Type
-what type of monetary system does ecuador have?,Category/Type
-what climate zones do coffee plants grow in,Category/Type
-azerbaijan religion,Category/Type
-what type of political system does united states have,Category/Type
-what license do i need to sell houses,Category/Type
-which type of cells form the lining of the small intestine?,Category/Type
-what breed is a tiger cat,Category/Type
-what job function need to create a crm,Category/Type
-which type of committee is charged with research or oversight to be completed in between sessions?,Category/Type
-what chromosome is affected by color blindness,Category/Type
-what type of degree is the most common for those wanting a career in radiology,Category/Type
-what college degree do i need to be a veterinarian,Category/Type
-what type of bonds help water to moderate changes in temperature,Category/Type
-what native habitat is the paper birch tree in,Category/Type
-what biome is siberia,Category/Type
-what phylum does rotifer belong to,Category/Type
-what car has trunk large enough for golf clubs,Category/Type
-what class of medication is mononessa,Category/Type
-what doctor to see for arthritis,Category/Type
-into what category of biological molecules do enzymes belong,Category/Type
-what type of water is considered pure,Category/Type
-what kind of bond connects protein monomers,Category/Type
-what kind of mountain is the rocky mountain,Category/Type
-beetles that come from soybeans,Category/Type
-what package of direct tv is rfd channel,Category/Type
-what kind of market is north korea,Category/Type
-what metabolic process occurs in fermentation,Category/Type
-what type of uv kills algae,Category/Type
+query,label
+What kind of band is one direction?,Type
+what kind of music was debussy,Type
+a shrug is what type of communication,Type
+what bonds are polymers,Type
+what type of math questions are on the act,Type
+what kind of store is walmart,Type
+what type of eruption was the mayon volcano,Type
+what mood feels guilt shame,Type
+what kind of cancer does hpv cause,Type
+types of mum flowers,Type
+. what types of information would be documented into the equipment inventory,Type
+what type of leaf is in tea,Type
+what type of lava did mount pelee have,Type
+what is the species of a chimpanzee,Type
+what type of disorder is arthritis?,Type
+what are normal percussion sounds over the stomach,Type
+4. what kind of government does the united states have,Type
+what coverage is needed for triple net lease,Type
+which deserts do cactus grow in,Type
+fainting is a manifestation of which heart condition,Type
+what type of engine uses tiller for steering,Type
+what kind of worms for trout fishing,Type
+what type of animals are in montana,Type
+"when it is summer in australia, the season in the united states is",Type
+what work experience is needed to become a cpa,Type
+what type of monetary system does ecuador have?,Type
+what climate zones do coffee plants grow in,Type
+azerbaijan religion,Type
+what type of political system does united states have,Type
+what license do i need to sell houses,Type
+which type of cells form the lining of the small intestine?,Type
+what breed is a tiger cat,Type
+what job function need to create a crm,Type
+which type of committee is charged with research or oversight to be completed in between sessions?,Type
+what chromosome is affected by color blindness,Type
+what type of degree is the most common for those wanting a career in radiology,Type
+what college degree do i need to be a veterinarian,Type
+what type of bonds help water to moderate changes in temperature,Type
+what native habitat is the paper birch tree in,Type
+what biome is siberia,Type
+what phylum does rotifer belong to,Type
+what car has trunk large enough for golf clubs,Type
+what class of medication is mononessa,Type
+what doctor to see for arthritis,Type
+into what category of biological molecules do enzymes belong,Type
+what type of water is considered pure,Type
+what kind of bond connects protein monomers,Type
+what kind of mountain is the rocky mountain,Type
+beetles that come from soybeans,Type
+what package of direct tv is rfd channel,Type
+what kind of market is north korea,Type
+what metabolic process occurs in fermentation,Type
+what type of uv kills algae,Type
 area code vs zip code,Comparison
 difference between zoology and animal biology,Comparison
 the difference between animal sanctuary and zoo,Comparison
@@ -502,7 +502,6 @@ what can behavioral health do,Description
 what did the open door policy mean for china?,Description
 kawasaki disease in children symptoms,Description
 what do elephants do,Description
-how long is formula good in fridge,Duration
 largest fish caught in utah,Entity 
 largest fish caught with rod,Entity 
 most aggressive shark species,Entity 
@@ -1308,7 +1307,6 @@ how do baboons adapt,Explanation
 what does atp do for the cell,Explanation
 what causes a migraine?,Explanation
 what is causes static electricity,Explanation
-How often can I donate blood?,Frequency
 english translation of tout,Language
 how to say happy birthday in french language,Language
 italian translation for william,Language
@@ -1612,112 +1610,112 @@ which of the following defines the opposition to the flow of electrical current,
 which organelle is responsible for intracellular digestion,Selection
 is halogens electron donating or withdrawing in a benzene ring,Selection
 which is polar stearic acid or sucrose,Selection
-how to stop the execution of code when error arises in asp.net,Steps/Process
-how to transition from formula to milk,Steps/Process
-how to write a countif formula in excel,Steps/Process
-how to write the code for background processing in abap,Steps/Process
-How can I add a place/restaurant to Google Maps?,Steps/Process
-How can I check my Verizon text messages from my browser?,Steps/Process
-How can I connect my Quora profile with my HTML file?,Steps/Process
-How can I copy music videos from my laptop onto my iPhone?,Steps/Process
-How can I delete my Paddy Power account?,Steps/Process
-How can I get international phone number?,Steps/Process
-How can I install WhatsApp on PC without using Bluestack?,Steps/Process
-How can I read a balance sheet?,Steps/Process
-How can you cancel you Amazon prime free trial?,Steps/Process
-How do I apply to a German public university for ug programme?,Steps/Process
-How do I calculate percentile?,Steps/Process
-How do I connect my iPhone to a Samsung Smart uhd TV?,Steps/Process
-How do I connect my Linksys router?,Steps/Process
-How do I email someone on Quora?,Steps/Process
-How do you build your own server at home?,Steps/Process
-How do you calculate your net worth?,Steps/Process
-How do you charge a laptop without a charger?,Steps/Process
-How do you convert English to Sanskrit?,Steps/Process
-How do you create a customized Google map of a city?,Steps/Process
-How do you deactivate your Twitter account?,Steps/Process
-How do you download all your photos from Google photos in one shot?,Steps/Process
-How do you Photoshop something into a picture?,Steps/Process
-How is ArrayList implemented in Java?,Steps/Process
-How can I get Windows 10 on a Windows 7 computer?,Steps/Process
-How can I immigrate to the US?,Steps/Process
-How can I make High quality video with small file size?,Steps/Process
-How can I make Jio 4G SIM speed fast?,Steps/Process
-How can you join the NCIS?,Steps/Process
-How do I add money in Paytm Wallet?,Steps/Process
-How do I conduct market/ industry research before starting my busienss?,Steps/Process
-How do I decrease my blood sugar in my body (diabetes mellitus)?,Steps/Process
-How do I harvest honey from a honeycomb?,Steps/Process
-How do I order wholesale meat online in Sydney?,Steps/Process
-How do I post a project and hire freelancers from addanyproject website?,Steps/Process
-How do you find the magnitude of the net force?,Steps/Process
-How do I recover deleted photos from keepsafe?,Steps/Process
-How do I publish an article?,Steps/Process
-How do I recover my snapchchat account?,Steps/Process
-How do I use Facebook in China?,Steps/Process
-How can I change the language in QQ Music from Chinese to English?,Steps/Process
-what to do with gout,Steps/Process
-how to peel a hardboiled egg,Steps/Process
-how to run your rv on inverter,Steps/Process
-how to return on zulily,Steps/Process
-how to grill raw shrimp on the grill,Steps/Process
-how to return the month name in excel,Steps/Process
-reversing side effects for lamictal,Steps/Process
-how many stages does a butterfly go through,Steps/Process
-how to rid of pinworms naturally,Steps/Process
-onenote how to get a link to a page,Steps/Process
-how to treat a boil naturally,Steps/Process
-how long to boil 8 eggs,Steps/Process
-how to use a Douche,Steps/Process
-how to make a private facebook accont so you can have a page,Steps/Process
-how to answer a service of process,Steps/Process
-how to care for thickened toenails,Steps/Process
-how to make a volcano science fair procedure,Steps/Process
-how to become a pediatric oncology nurse practitioner,Steps/Process
-how to use ravensara oil,Steps/Process
-how to add a contact group in outlook 2013,Steps/Process
-how to print excel spreadsheet with row numbers,Steps/Process
-how to change a computer name,Steps/Process
-how to build an event hall,Steps/Process
-procedure code for obesity counseling,Steps/Process
-how do you count days past ovulation,Steps/Process
-how to treat your mellet finger,Steps/Process
-how to find longitudinal wavelength given distance,Steps/Process
-how do you plant in a straw bale,Steps/Process
-how can i check taxes were filed,Steps/Process
-how to store pasta for long term,Steps/Process
-how to create a network drive in windows 8,Steps/Process
-pinellas county jail how to send money,Steps/Process
-how to get spin from a wedge shot,Steps/Process
-how to become a registered voter in indiana,Steps/Process
-how do i create a business facebook account,Steps/Process
-how to get admin right without login on macbook,Steps/Process
-how do you find circumference of a circle,Steps/Process
-how to put battery on taskbar,Steps/Process
-how to make a bootable usb windows 8,Steps/Process
-how to take back an email on web outlook,Steps/Process
-How to stop a nosebleed?,Steps/Process
-how to put my facebook back to english,Steps/Process
-how to make a ribbon skirt,Steps/Process
-how to contact angelina jolie,Steps/Process
-how do you get rid of a migraine fast,Steps/Process
-how to pronounce shanese,Steps/Process
-how to cite to merriam webster online dictionary,Steps/Process
-how to disable keyboard on windows 10,Steps/Process
-cabbage how to put it in the freezer,Steps/Process
-how to make blooming onions at home,Steps/Process
-how to access account settings in outlook 2007,Steps/Process
-how to use a coffee maker,Steps/Process
-how can i cash a check,Steps/Process
-how to divide calla lily bulbs,Steps/Process
-how to show security tab in internet explorer,Steps/Process
-how to adjust the water level in toilets,Steps/Process
-how to take a screenshot off the internet,Steps/Process
-how to charge fitbit blaze battery,Steps/Process
-how to delete dna from family tree dna,Steps/Process
-how can i use reading eggs in the classroom,Steps/Process
-how to determine hs code,Steps/Process
-how to do screenshot on macbook pro,Steps/Process
-how to add dropdowns in word,Steps/Process
-how to convert decimal to hexadecimal numbers,Steps/Process
-calculate inventory carrying cost per unit,Steps/Process
+how to stop the execution of code when error arises in asp.net,Process
+how to transition from formula to milk,Process
+how to write a countif formula in excel,Process
+how to write the code for background processing in abap,Process
+How can I add a place/restaurant to Google Maps?,Process
+How can I check my Verizon text messages from my browser?,Process
+How can I connect my Quora profile with my HTML file?,Process
+How can I copy music videos from my laptop onto my iPhone?,Process
+How can I delete my Paddy Power account?,Process
+How can I get international phone number?,Process
+How can I install WhatsApp on PC without using Bluestack?,Process
+How can I read a balance sheet?,Process
+How can you cancel you Amazon prime free trial?,Process
+How do I apply to a German public university for ug programme?,Process
+How do I calculate percentile?,Process
+How do I connect my iPhone to a Samsung Smart uhd TV?,Process
+How do I connect my Linksys router?,Process
+How do I email someone on Quora?,Process
+How do you build your own server at home?,Process
+How do you calculate your net worth?,Process
+How do you charge a laptop without a charger?,Process
+How do you convert English to Sanskrit?,Process
+How do you create a customized Google map of a city?,Process
+How do you deactivate your Twitter account?,Process
+How do you download all your photos from Google photos in one shot?,Process
+How do you Photoshop something into a picture?,Process
+How is ArrayList implemented in Java?,Process
+How can I get Windows 10 on a Windows 7 computer?,Process
+How can I immigrate to the US?,Process
+How can I make High quality video with small file size?,Process
+How can I make Jio 4G SIM speed fast?,Process
+How can you join the NCIS?,Process
+How do I add money in Paytm Wallet?,Process
+How do I conduct market/ industry research before starting my busienss?,Process
+How do I decrease my blood sugar in my body (diabetes mellitus)?,Process
+How do I harvest honey from a honeycomb?,Process
+How do I order wholesale meat online in Sydney?,Process
+How do I post a project and hire freelancers from addanyproject website?,Process
+How do you find the magnitude of the net force?,Process
+How do I recover deleted photos from keepsafe?,Process
+How do I publish an article?,Process
+How do I recover my snapchchat account?,Process
+How do I use Facebook in China?,Process
+How can I change the language in QQ Music from Chinese to English?,Process
+what to do with gout,Process
+how to peel a hardboiled egg,Process
+how to run your rv on inverter,Process
+how to return on zulily,Process
+how to grill raw shrimp on the grill,Process
+how to return the month name in excel,Process
+reversing side effects for lamictal,Process
+how many stages does a butterfly go through,Process
+how to rid of pinworms naturally,Process
+onenote how to get a link to a page,Process
+how to treat a boil naturally,Process
+how long to boil 8 eggs,Process
+how to use a Douche,Process
+how to make a private facebook accont so you can have a page,Process
+how to answer a service of process,Process
+how to care for thickened toenails,Process
+how to make a volcano science fair procedure,Process
+how to become a pediatric oncology nurse practitioner,Process
+how to use ravensara oil,Process
+how to add a contact group in outlook 2013,Process
+how to print excel spreadsheet with row numbers,Process
+how to change a computer name,Process
+how to build an event hall,Process
+procedure code for obesity counseling,Process
+how do you count days past ovulation,Process
+how to treat your mellet finger,Process
+how to find longitudinal wavelength given distance,Process
+how do you plant in a straw bale,Process
+how can i check taxes were filed,Process
+how to store pasta for long term,Process
+how to create a network drive in windows 8,Process
+pinellas county jail how to send money,Process
+how to get spin from a wedge shot,Process
+how to become a registered voter in indiana,Process
+how do i create a business facebook account,Process
+how to get admin right without login on macbook,Process
+how do you find circumference of a circle,Process
+how to put battery on taskbar,Process
+how to make a bootable usb windows 8,Process
+how to take back an email on web outlook,Process
+How to stop a nosebleed?,Process
+how to put my facebook back to english,Process
+how to make a ribbon skirt,Process
+how to contact angelina jolie,Process
+how do you get rid of a migraine fast,Process
+how to pronounce shanese,Process
+how to cite to merriam webster online dictionary,Process
+how to disable keyboard on windows 10,Process
+cabbage how to put it in the freezer,Process
+how to make blooming onions at home,Process
+how to access account settings in outlook 2007,Process
+how to use a coffee maker,Process
+how can i cash a check,Process
+how to divide calla lily bulbs,Process
+how to show security tab in internet explorer,Process
+how to adjust the water level in toilets,Process
+how to take a screenshot off the internet,Process
+how to charge fitbit blaze battery,Process
+how to delete dna from family tree dna,Process
+how can i use reading eggs in the classroom,Process
+how to determine hs code,Process
+how to do screenshot on macbook pro,Process
+how to add dropdowns in word,Process
+how to convert decimal to hexadecimal numbers,Process
+calculate inventory carrying cost per unit,Process
